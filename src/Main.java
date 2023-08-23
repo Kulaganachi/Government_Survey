@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Person {
     private String name;
     private int age;
-    private double salary;
+    private double salary;git
 
     public Person(String name, int age, double salary) {
         this.name = name;
